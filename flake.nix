@@ -34,6 +34,13 @@
           loaderUid = "net.neoforged";
           loaderVersion = "21.1.172";
         };
+
+        testClient = inputs.nix-modpack.packages.${pkgs.system}.mkModpackClient {
+          packUrl = "http://localhost:8080/pack.toml";
+          gameVersion = "1.21.1";
+          loaderUid = "net.neoforged";
+          loaderVersion = "21.1.172";
+        };
       });
 
       devShells = eachSystem (pkgs: {
