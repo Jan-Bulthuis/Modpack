@@ -43,11 +43,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1747526922,
-        "narHash": "sha256-NmBP0W4RJ8NTkeaMKy/NNzMBIQDa8n161Igbu7zWM2E=",
+        "lastModified": 1747581338,
+        "narHash": "sha256-/+H9qce+NPsEcAC31s3pbD64nB6GKC3+3ZNLV1+tffk=",
         "owner": "Jan-Bulthuis",
         "repo": "nix-minecraft",
-        "rev": "566b5218ff51d80da60873fe3b5930b8da12091c",
+        "rev": "44b6b40d7a3e0a114567b38a203029a5bc67e838",
         "type": "github"
       },
       "original": {

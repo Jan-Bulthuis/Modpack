@@ -20,26 +20,26 @@
       packages = eachSystem (pkgs: {
         server = inputs.nix-modpack.packages.${pkgs.system}.mkModpackServer {
           packUrl = "https://raw.githubusercontent.com/Jan-Bulthuis/Modpack/refs/heads/master/pack.toml";
-          server = inputs.nix-minecraft.legacyPackages.${pkgs.system}.neoForgeServers.neoforge-21_1_172;
+          server = inputs.nix-minecraft.legacyPackages.${pkgs.system}.neoForgeServers.neoforge-20_1_106;
         };
 
         testServer = inputs.nix-modpack.packages.${pkgs.system}.mkModpackServer {
           packUrl = "http://localhost:8080/pack.toml";
-          server = inputs.nix-minecraft.legacyPackages.${pkgs.system}.neoForgeServers.neoforge-21_1_172;
+          server = inputs.nix-minecraft.legacyPackages.${pkgs.system}.neoForgeServers.neoforge-20_1_106;
         };
 
         client = inputs.nix-modpack.packages.${pkgs.system}.mkModpackClient {
           packUrl = "https://raw.githubusercontent.com/Jan-Bulthuis/Modpack/refs/heads/master/pack.toml";
-          gameVersion = "1.21.1";
+          gameVersion = "1.20.1";
           loaderUid = "net.neoforged";
-          loaderVersion = "21.1.172";
+          loaderVersion = "47.1.106";
         };
 
         testClient = inputs.nix-modpack.packages.${pkgs.system}.mkModpackClient {
           packUrl = "http://localhost:8080/pack.toml";
-          gameVersion = "1.21.1";
+          gameVersion = "1.20.1";
           loaderUid = "net.neoforged";
-          loaderVersion = "21.1.172";
+          loaderVersion = "47.1.106";
         };
       });
 
