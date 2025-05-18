@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/immediatelyfast.json"
+hash = "55e693cdf40a6cb56a41eba09141c49ade93995642807ef4ac39e8d1233507f2"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "2f55171047045561bfca938bcd5d064a0055828d7361787e18685214230fd7f0"
+
+[[files]]
 file = "mods/cull-less-leaves-reforged.pw.toml"
 hash = "df9ee07891e8347da9c0eef226a2043ab9299fdc8b2350c93a78af9c37455ee7"
 metafile = true
