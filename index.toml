@@ -9,6 +9,11 @@ file = "config/modernfix-mixins.properties"
 hash = "2f55171047045561bfca938bcd5d064a0055828d7361787e18685214230fd7f0"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "aade74980123d37176d7488197d4bba4399aba3e35cd78feb7a1041518238744"
+metafile = true
+
+[[files]]
 file = "mods/cull-less-leaves-reforged.pw.toml"
 hash = "df9ee07891e8347da9c0eef226a2043ab9299fdc8b2350c93a78af9c37455ee7"
 metafile = true
@@ -19,8 +24,23 @@ hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
 metafile = true
 
 [[files]]
+file = "mods/emi.pw.toml"
+hash = "f0b4372343e873512d57e5ee877f37362f8dde8e75771075abe44686509294b9"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "14ddf6bc740ded7825a455f90f0045ed3b4c2e65168565715daaff8532da5dbd"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "f5f5a6c3fd3789b39a7c27f13ccacb1853ded49324a5e87f6673cf8ff0ced364"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "cc4926dece87e61770569a0c558f3c2e674e036a92939afe93058d8c4263b96f"
 metafile = true
 
 [[files]]
@@ -34,6 +54,11 @@ hash = "835bd8b05a05ce6c0981ddc37c49e4c476aa0414cc2a5321fd9f8994193b6feb"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "fd35eb8e67f11aec4ae71465ac1b2d9599039d1b3efd8f463655b58f744b5a09"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "1ccbf99a17011f1f6c3b13024e575a0cfe71047729c53db3b5bd9e8e0b28635b"
 metafile = true
@@ -44,6 +69,26 @@ hash = "c18dd089c44103b56f8edcbd41a071e41a1fcd46094b2c93df5cc5f07853f18b"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "55c6d0b8ee25fd6a37a964805de3d2eab3f20d73a88ba77a63b4a51fd985d9dd"
+metafile = true
+
+[[files]]
 file = "mods/radium.pw.toml"
 hash = "bbdd40b650286973d44b1931d4b8c4bcc02b02f2c5583545709347503bd13057"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "0be4976227df8e261fd362889bf8e85b93e224d1b1c3cd2a11b73a9de3b64083"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "b000d0545976048ed0bcd4276a47168c5eac0344fe404b07e67761d79a9c89cc"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "95650f26d33823363d0003ff801e081f4c1e9e33d88a4fc871ebc7ec33b72ac5"
 metafile = true
