@@ -14,8 +14,23 @@ hash = "aade74980123d37176d7488197d4bba4399aba3e35cd78feb7a1041518238744"
 metafile = true
 
 [[files]]
+file = "mods/ars-nouveau.pw.toml"
+hash = "71f03c33669516ce50b789b191989ce1a0566c51c48676cc8d49907e23217ac7"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "119d501c87aef8afa8cf89ed6f17499518c21240d7781f4331e3007e57957a79"
+metafile = true
+
+[[files]]
 file = "mods/cull-less-leaves-reforged.pw.toml"
 hash = "df9ee07891e8347da9c0eef226a2043ab9299fdc8b2350c93a78af9c37455ee7"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
 metafile = true
 
 [[files]]
@@ -44,6 +59,11 @@ hash = "cc4926dece87e61770569a0c558f3c2e674e036a92939afe93058d8c4263b96f"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "22ceac3dd118087ae3f8d4254b81afa8a028edb1d9df39869320dfe84b55e319"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
 metafile = true
@@ -56,6 +76,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "fd35eb8e67f11aec4ae71465ac1b2d9599039d1b3efd8f463655b58f744b5a09"
+metafile = true
+
+[[files]]
+file = "mods/mantle.pw.toml"
+hash = "15aa420ec9cf1482e0bcce52197f1f7f6208a3fead0dfabbdf655e122494040f"
 metafile = true
 
 [[files]]
@@ -81,6 +106,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "0be4976227df8e261fd362889bf8e85b93e224d1b1c3cd2a11b73a9de3b64083"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-construct.pw.toml"
+hash = "5faff2689a31c0e16d05b9b4cc359394ff4b398b194cb0d1334753d1216c8d85"
 metafile = true
 
 [[files]]
