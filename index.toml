@@ -14,8 +14,28 @@ hash = "aade74980123d37176d7488197d4bba4399aba3e35cd78feb7a1041518238744"
 metafile = true
 
 [[files]]
+file = "mods/ars-additions.pw.toml"
+hash = "4bf55aa51f09c03d194781a280d0676394c897a4334f0ae3eab358e0851e39d9"
+metafile = true
+
+[[files]]
+file = "mods/ars-creo.pw.toml"
+hash = "0502e2b33b08fe5920ff1ea61d3cd3c86d9e93ff234af56088c63dff4c189733"
+metafile = true
+
+[[files]]
+file = "mods/ars-elemental.pw.toml"
+hash = "849c136f0dfe59bc4eca4e9776e36e8fb334064ccc81d47ecd3044733aeea5a8"
+metafile = true
+
+[[files]]
 file = "mods/ars-nouveau.pw.toml"
 hash = "71f03c33669516ce50b789b191989ce1a0566c51c48676cc8d49907e23217ac7"
+metafile = true
+
+[[files]]
+file = "mods/arsdelight.pw.toml"
+hash = "710e7c2423c8a14f2037f88e955544ad55d54460a1f2e5b884b34d60aa1cb0b1"
 metafile = true
 
 [[files]]
@@ -31,16 +51,6 @@ metafile = true
 [[files]]
 file = "mods/create-bitterballen.pw.toml"
 hash = "6e8d80857703377e8eebf9aa5b199f8b7a83f399570b6dc076c73c74b8dca643"
-metafile = true
-
-[[files]]
-file = "mods/create-central-kitchen.pw.toml"
-hash = "81624db65c91a18ac83dd8356ad49c1436b090a95983f927a1c69269af5646d9"
-metafile = true
-
-[[files]]
-file = "mods/create-cobblestone.pw.toml"
-hash = "cc93c7dd457427c7a6db51fe412a53771e2e6d6539d312d5141b050a32d45fb2"
 metafile = true
 
 [[files]]
@@ -61,11 +71,6 @@ metafile = true
 [[files]]
 file = "mods/create-food.pw.toml"
 hash = "fbb07c5c3f30715e0695a6a6f3c28764113c3866d5ab879d4f7bbfc0337dfc85"
-metafile = true
-
-[[files]]
-file = "mods/create-ore-excavation.pw.toml"
-hash = "730a38443ad685d0defd26ea4765e862b6c3eb789d4894ad27dfc4ad8001f4d3"
 metafile = true
 
 [[files]]
@@ -129,13 +134,13 @@ hash = "f78c94f42ffaf5365f45b58f83545ced3dc9ae0cf075412e7710079e163eed28"
 metafile = true
 
 [[files]]
-file = "mods/immediatelyfast.pw.toml"
-hash = "632c93f30f4ec119ff6acbd825c57609bbf86b06b9c2c8cc024ee3ab2cc89d94"
+file = "mods/geckolib.pw.toml"
+hash = "a66ce8fdd15abadd17b5d3d62e5bca0afe8209c081c8be1407b0e6166c8714d9"
 metafile = true
 
 [[files]]
-file = "mods/interiors.pw.toml"
-hash = "94a549e2ce246807a68cb59773e2ee2ec412039fb2aed4e4d5b35077972c66d4"
+file = "mods/immediatelyfast.pw.toml"
+hash = "632c93f30f4ec119ff6acbd825c57609bbf86b06b9c2c8cc024ee3ab2cc89d94"
 metafile = true
 
 [[files]]
@@ -161,6 +166,11 @@ metafile = true
 [[files]]
 file = "mods/noisium.pw.toml"
 hash = "c18dd089c44103b56f8edcbd41a071e41a1fcd46094b2c93df5cc5f07853f18b"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-glyphs.pw.toml"
+hash = "af9bf1a7210bf7037c1189f796264031e7801237c9097fe64be77830d4006dcf"
 metafile = true
 
 [[files]]
