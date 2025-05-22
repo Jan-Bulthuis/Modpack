@@ -44,8 +44,23 @@ hash = "126db1f1ec01bbc4cf3393e087363e2fdbfe4a3face897ed27985b14a1a519a9"
 metafile = true
 
 [[files]]
+file = "mods/brewin-and-chewin.pw.toml"
+hash = "d47b75b30e711de67e9de2ce05fd5979a89e5aacb5c0fd036c6f9466b1da2665"
+metafile = true
+
+[[files]]
+file = "mods/chefs-delight.pw.toml"
+hash = "43edc2a35e428f57ec56e4988f205755acfc63e91d5603cd63b82d2e05fcdcdc"
+metafile = true
+
+[[files]]
 file = "mods/copycats.pw.toml"
 hash = "35547f679eb0eeac8c5158e49faea3b4ba99263bd6fd1cd27114a48dd6d3db9d"
+metafile = true
+
+[[files]]
+file = "mods/crate-delight.pw.toml"
+hash = "38e568025ffa43791aa33853dfeaa65f50c97f44743924213803aca0dc41a13e"
 metafile = true
 
 [[files]]
@@ -101,6 +116,11 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "f0b4372343e873512d57e5ee877f37362f8dde8e75771075abe44686509294b9"
+metafile = true
+
+[[files]]
+file = "mods/ends-delight.pw.toml"
+hash = "c3d1438d25bdf4a3b993b832f220370635969c7d964df0b3e389e126d24e48f1"
 metafile = true
 
 [[files]]
@@ -196,6 +216,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "0be4976227df8e261fd362889bf8e85b93e224d1b1c3cd2a11b73a9de3b64083"
+metafile = true
+
+[[files]]
+file = "mods/storage-delight.pw.toml"
+hash = "273bc0ded86ee0e6b4639a37f7a66e2e141c5453ca3efc79cf319dcef6dc9552"
 metafile = true
 
 [[files]]

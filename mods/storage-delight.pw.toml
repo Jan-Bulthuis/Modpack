@@ -1,0 +1,13 @@
+name = "Storage Delight"
+filename = "storagedelight-25.03.09-1.20-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LTTvOp5L/versions/MQRlqk7K/storagedelight-25.03.09-1.20-forge.jar"
+hash-format = "sha512"
+hash = "77a00dee5b7ab32f051431e740c2cb8b1e558a2d619edb06eea7c505aafefafde72fcb6e23d15a738098599973f5ca8e4b451098e27f07eb8a02bf6c888e1ec0"
+
+[update]
+[update.modrinth]
+mod-id = "LTTvOp5L"
+version = "MQRlqk7K"
