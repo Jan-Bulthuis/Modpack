@@ -1,0 +1,13 @@
+name = "Create: Bitterballen"
+filename = "createbicbit-1.20.1-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/16DuAG4k/versions/kviQ7OFI/createbicbit-1.20.1-1.0.jar"
+hash-format = "sha512"
+hash = "e4e29383531e250dc40c80276993995d80c7e1277b94394056a9b0bb9874233aa60df1e942859cc0c12f7277c6a13b1193155c2dc8540d6bf71247f656e911d5"
+
+[update]
+[update.modrinth]
+mod-id = "16DuAG4k"
+version = "kviQ7OFI"

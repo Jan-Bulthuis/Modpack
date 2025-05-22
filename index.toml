@@ -19,6 +19,61 @@ hash = "71f03c33669516ce50b789b191989ce1a0566c51c48676cc8d49907e23217ac7"
 metafile = true
 
 [[files]]
+file = "mods/bellsandwhistles.pw.toml"
+hash = "126db1f1ec01bbc4cf3393e087363e2fdbfe4a3face897ed27985b14a1a519a9"
+metafile = true
+
+[[files]]
+file = "mods/copycats.pw.toml"
+hash = "35547f679eb0eeac8c5158e49faea3b4ba99263bd6fd1cd27114a48dd6d3db9d"
+metafile = true
+
+[[files]]
+file = "mods/create-bitterballen.pw.toml"
+hash = "6e8d80857703377e8eebf9aa5b199f8b7a83f399570b6dc076c73c74b8dca643"
+metafile = true
+
+[[files]]
+file = "mods/create-central-kitchen.pw.toml"
+hash = "81624db65c91a18ac83dd8356ad49c1436b090a95983f927a1c69269af5646d9"
+metafile = true
+
+[[files]]
+file = "mods/create-cobblestone.pw.toml"
+hash = "cc93c7dd457427c7a6db51fe412a53771e2e6d6539d312d5141b050a32d45fb2"
+metafile = true
+
+[[files]]
+file = "mods/create-connected.pw.toml"
+hash = "79d988f9d22385539cf9beb14698d8da437812d78cc05f6f7f4165885a9c9a7a"
+metafile = true
+
+[[files]]
+file = "mods/create-deco.pw.toml"
+hash = "87be52b8aaa9864eab1ec2df8c862cd01a084989b07c4cdbfaa21c57a9a778a6"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry.pw.toml"
+hash = "17f996634516fe8a9f0699d44ef0d9bfc3eea1edd01ae5ee866424f0f3fe2713"
+metafile = true
+
+[[files]]
+file = "mods/create-food.pw.toml"
+hash = "fbb07c5c3f30715e0695a6a6f3c28764113c3866d5ab879d4f7bbfc0337dfc85"
+metafile = true
+
+[[files]]
+file = "mods/create-ore-excavation.pw.toml"
+hash = "730a38443ad685d0defd26ea4765e862b6c3eb789d4894ad27dfc4ad8001f4d3"
+metafile = true
+
+[[files]]
+file = "mods/create-railways-navigator.pw.toml"
+hash = "bacad21ae6da0a999eb913f557d68357e0010c2ce0d3eda06693d67b6e84a061"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "119d501c87aef8afa8cf89ed6f17499518c21240d7781f4331e3007e57957a79"
 metafile = true
@@ -79,13 +134,18 @@ hash = "632c93f30f4ec119ff6acbd825c57609bbf86b06b9c2c8cc024ee3ab2cc89d94"
 metafile = true
 
 [[files]]
-file = "mods/iris-flw-compat.pw.toml"
-hash = "03c55a1cbe4e547abba255cd02d157cb0ce3f8b782daa33797048061751b0f55"
+file = "mods/interiors.pw.toml"
+hash = "94a549e2ce246807a68cb59773e2ee2ec412039fb2aed4e4d5b35077972c66d4"
 metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "fd35eb8e67f11aec4ae71465ac1b2d9599039d1b3efd8f463655b58f744b5a09"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "7ea985404ee4cc9082472c6869ec146309f526e395361b39f2f4c1a43506c41d"
 metafile = true
 
 [[files]]
@@ -116,6 +176,11 @@ metafile = true
 [[files]]
 file = "mods/radium.pw.toml"
 hash = "bbdd40b650286973d44b1931d4b8c4bcc02b02f2c5583545709347503bd13057"
+metafile = true
+
+[[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "051a8937ed53267faa86fb53695f6e84a4fdf66d905cb9f3873e5498a6e66ab5"
 metafile = true
 
 [[files]]
