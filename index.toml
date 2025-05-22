@@ -14,6 +14,11 @@ hash = "aade74980123d37176d7488197d4bba4399aba3e35cd78feb7a1041518238744"
 metafile = true
 
 [[files]]
+file = "mods/another-furniture.pw.toml"
+hash = "64bcde890c30378ebb2f305268bd76c412e1f5d4709896e97449cbe95b653fe5"
+metafile = true
+
+[[files]]
 file = "mods/ars-additions.pw.toml"
 hash = "4bf55aa51f09c03d194781a280d0676394c897a4334f0ae3eab358e0851e39d9"
 metafile = true
@@ -51,6 +56,11 @@ metafile = true
 [[files]]
 file = "mods/chefs-delight.pw.toml"
 hash = "43edc2a35e428f57ec56e4988f205755acfc63e91d5603cd63b82d2e05fcdcdc"
+metafile = true
+
+[[files]]
+file = "mods/comforts.pw.toml"
+hash = "a2c5d820180d2610e5017e3f08957010e30cf05d50ee3180272dac6f969260cf"
 metafile = true
 
 [[files]]
@@ -159,6 +169,11 @@ hash = "a66ce8fdd15abadd17b5d3d62e5bca0afe8209c081c8be1407b0e6166c8714d9"
 metafile = true
 
 [[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "db495b3ac268709a2ba673bfe220b10257fb7dae549f94bfbd539617d571f131"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "632c93f30f4ec119ff6acbd825c57609bbf86b06b9c2c8cc024ee3ab2cc89d94"
 metafile = true
@@ -174,13 +189,38 @@ hash = "7ea985404ee4cc9082472c6869ec146309f526e395361b39f2f4c1a43506c41d"
 metafile = true
 
 [[files]]
+file = "mods/macaws-doors.pw.toml"
+hash = "e4f414ece2ec81f6dd2dfb8c0176670a576b988f60c8b45a1f4b749b4d008c9d"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paths-and-pavings.pw.toml"
+hash = "1a621ba80dc3db935afe234475501a880e11a2cc96222833803e6636154f6724"
+metafile = true
+
+[[files]]
+file = "mods/macaws-windows.pw.toml"
+hash = "bcab19f90a7b77b0c4eb0b6f30b6c43994a3305cbfae6d2768ec8cb6203ed045"
+metafile = true
+
+[[files]]
 file = "mods/mantle.pw.toml"
 hash = "15aa420ec9cf1482e0bcce52197f1f7f6208a3fead0dfabbdf655e122494040f"
 metafile = true
 
 [[files]]
+file = "mods/mmmmmmmmmmmm.pw.toml"
+hash = "f56fcec37f225c9b8a43e46c3b42c600f7bf4ad78e2ba745c6e8842b5f4f012c"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "1ccbf99a17011f1f6c3b13024e575a0cfe71047729c53db3b5bd9e8e0b28635b"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "101c34781cd238ccf1c524b64c870ce1a8611f71df46680c820918c719e868e1"
 metafile = true
 
 [[files]]
@@ -209,6 +249,11 @@ hash = "bbdd40b650286973d44b1931d4b8c4bcc02b02f2c5583545709347503bd13057"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "5c07edd0c8fe82e85efd6c027476ba54cf98291526803b74614c3436292e4ab6"
+metafile = true
+
+[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "051a8937ed53267faa86fb53695f6e84a4fdf66d905cb9f3873e5498a6e66ab5"
 metafile = true
@@ -221,6 +266,11 @@ metafile = true
 [[files]]
 file = "mods/storage-delight.pw.toml"
 hash = "273bc0ded86ee0e6b4639a37f7a66e2e141c5453ca3efc79cf319dcef6dc9552"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "8e4a88ac887cf91f870804cd5a4730e318dc68b927b7634c2adb9d6b78fc04d1"
 metafile = true
 
 [[files]]
