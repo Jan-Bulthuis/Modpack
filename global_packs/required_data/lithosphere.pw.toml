@@ -1,0 +1,13 @@
+name = "Lithosphere"
+filename = "lithosphere-1.5-1.20.1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iv9jp2k9/versions/Ee6INUAz/lithosphere%201.5%2021.04.2025%20%281.20.1%29.zip"
+hash-format = "sha512"
+hash = "5be3bc17fc1d39cbcee8a9503e41c551756a0f78199f2b6a1c986a253f336fbd19615e2611e43b7961dbce2cbd6e50f5392a5cf98fc5a0080d5d64094cb240f0"
+
+[update]
+[update.modrinth]
+mod-id = "iv9jp2k9"
+version = "Ee6INUAz"

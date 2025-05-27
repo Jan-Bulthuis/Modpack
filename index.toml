@@ -1,12 +1,26 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/global_data_and_resourcepacks.toml"
+hash = "96919d62b3908e81f5089aa806fd09e16d1ba4145ce28618143f38bc258f4888"
+
+[[files]]
 file = "config/immediatelyfast.json"
 hash = "55e693cdf40a6cb56a41eba09141c49ade93995642807ef4ac39e8d1233507f2"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
 hash = "2f55171047045561bfca938bcd5d064a0055828d7361787e18685214230fd7f0"
+
+[[files]]
+file = "global_packs/required_data/geophilic.pw.toml"
+hash = "ea321060f369ef3b3aa1a9f1a056929510a3b35844a34ad6587f85468678220f"
+metafile = true
+
+[[files]]
+file = "global_packs/required_data/lithosphere.pw.toml"
+hash = "30addb25ba87ab1d2911d88a41a2b80a02802adcb39b48996a85f362778c5820"
+metafile = true
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -184,6 +198,11 @@ hash = "a66ce8fdd15abadd17b5d3d62e5bca0afe8209c081c8be1407b0e6166c8714d9"
 metafile = true
 
 [[files]]
+file = "mods/globalpacks.pw.toml"
+hash = "1216c309abd2dfb6b0b0d7b7671ddeafef0737f95006896286ac541307275f35"
+metafile = true
+
+[[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "db495b3ac268709a2ba673bfe220b10257fb7dae549f94bfbd539617d571f131"
 metafile = true
@@ -321,6 +340,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "95650f26d33823363d0003ff801e081f4c1e9e33d88a4fc871ebc7ec33b72ac5"
+metafile = true
+
+[[files]]
+file = "mods/yeetus-experimentus.pw.toml"
+hash = "f1ab9504f1664dd80407ea5c44425723a6621e0092051bd23dc5241757bccb17"
 metafile = true
 
 [[files]]

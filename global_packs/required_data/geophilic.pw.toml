@@ -1,0 +1,13 @@
+name = "Geophilic"
+filename = "geophilic-3.4.1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hl5OLM95/versions/Bxa4r4cD/Geophilic%20v3.4.1%20f15-71.dp.zip"
+hash-format = "sha512"
+hash = "7ea580519c4df9ceca723b9438bd9ce2c4b6fb7f9f91904f70a18a00497416f85896b5d2888f9f32228a73628b4582f3c59c9c80cd831c12e9affea0bb5a6d4f"
+
+[update]
+[update.modrinth]
+mod-id = "hl5OLM95"
+version = "Bxa4r4cD"
